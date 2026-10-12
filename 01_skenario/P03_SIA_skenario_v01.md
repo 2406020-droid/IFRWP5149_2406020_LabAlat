@@ -80,3 +80,5 @@ Relasi `<<include>>` digunakan karena validasi merupakan proses wajib yang harus
 ### Alasan Relasi
 
 Relasi `<<extend>>` digunakan karena pengunduhan bukti bukan proses wajib dalam pengajuan KRS. Mahasiswa dapat memilih untuk mengunduh bukti atau tidak. Jika mahasiswa tidak memilih unduh bukti, pengajuan yang berhasil disimpan tetap dianggap berhasil.
+
+baru langkah 4 =======
