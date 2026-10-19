@@ -4,4 +4,5 @@
 - NIM: 2406020
 - Kelas: A
 - Mata Kuliah: Praktikum Analisis & Desain Berorientasi Objek
-- Status: Latihan Pertemuan 1 Pengenalan Lingkungan Praktikum dan Kakas Pemodelan UML
+- Status: Latihan Pertemuan 4 USE CASE DIAGRAM LANJUTAN: GENERALIZATION DAN
+  COLLABORATION
