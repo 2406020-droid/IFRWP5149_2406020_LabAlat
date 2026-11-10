@@ -53,7 +53,3 @@ Berdasarkan checklist penilaian pada Bagian C.4, Activity Diagram SIA telah disu
 Selain itu, diagram menggunakan satu pasang Fork dan Join untuk menggambarkan proses penerbitan KHS pada portal akademik dan pengiriman pemberitahuan hasil studi kepada mahasiswa yang berjalan secara paralel. Setiap aktivitas ditempatkan pada swimlane sesuai dengan pihak yang bertanggung jawab, yaitu Dosen, Sistem, Admin Akademik, dan Mahasiswa.
 
 Dengan dilakukannya pemeriksaan ini, Activity Diagram SIA diharapkan telah memenuhi ketentuan penyusunan diagram pada Jobsheet Praktikum Pertemuan 6 dan siap dilanjutkan ke tahap penyimpanan serta ekspor PNG.
-
-## F. Kesimpulan
-
-Pemeriksaan Activity Diagram dilakukan untuk memastikan seluruh simbol, alur aktivitas, percabangan, proses paralel, dan swimlane telah sesuai dengan instruksi praktikum. Setelah seluruh kriteria pemeriksaan terpenuhi, diagram dapat dilanjutkan ke Langkah 6, yaitu penyimpanan file draw.io dan ekspor ke format PNG.
